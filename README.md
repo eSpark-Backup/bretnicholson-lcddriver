@@ -1,6 +1,6 @@
 # BretNicholson-LCDDriver
 
-- Adding an alternate component (LCD driver) to an existing PCB design
+Adding an alternate component (LCD driver) to an existing PCB design
 
 The client have an existing PCB design for which one of the components (an LCD driver) has become difficult to source. The purpose of this project is to identify an alternate component(s) and update the PCB design.
 
